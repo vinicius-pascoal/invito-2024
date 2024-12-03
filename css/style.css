@@ -20,7 +20,7 @@ body {
   backdrop-filter: blur(7.7px);
   -webkit-backdrop-filter: blur(7.7px);
   border: 1px solid rgba(255, 255, 255, 0.31);
-  margin: 50svh 15svw 0;
+  margin: 30% 15svw 0;
   color: rgb(255, 255, 255);
   font-family: "Noto Serif Ahom", serif;
   font-weight: 400;
@@ -32,6 +32,7 @@ body {
   align-items: center;
   width: fit-content;
 }
+
 
 .caixa p {
   margin-bottom: 3svh;
