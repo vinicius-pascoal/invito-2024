@@ -21,8 +21,11 @@ body {
   -webkit-backdrop-filter: blur(7.7px);
   border: 1px solid rgba(255, 255, 255, 0.31);
   margin: 50svh 15svw 0;
-  color: rgba(192,160,98,255);
-  font-weight: lighter;
+  color: rgb(255, 255, 255);
+  font-family: "Noto Serif Ahom", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
   padding: 5svh 10svw;
   display: flex;
   flex-direction: column;
