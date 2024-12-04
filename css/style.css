@@ -62,11 +62,11 @@ body {
 }
 
 .botaoSim{
-  background-color: rgb(121, 121, 121);
+  background-color: rgb(66, 138, 84);
 }
 
 .botaoNao{
-  background-color: rgb(121, 121, 121);
+  background-color: rgb(175, 66, 66);
 }
 
 @media only screen and (min-width: 1024px) {
