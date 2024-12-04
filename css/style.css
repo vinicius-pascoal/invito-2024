@@ -68,3 +68,10 @@ body {
 .botaoNao{
   background-color: rgb(121, 121, 121);
 }
+
+@media only screen and (min-width: 1024px) {
+
+  body {
+    background-size: cover;
+  }
+}
